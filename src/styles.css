@@ -59,7 +59,7 @@ header img {
   list-style-type: none;
   color: white;
   display: flex;
-  gap: 2rem;
+  gap: 1.6rem;
 }
 
 .contact ul a {
